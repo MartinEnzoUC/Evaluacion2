@@ -10,7 +10,7 @@ Este script fue hecho para cumplir con los requisitos de la consultora "API Ltda
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/Evaluacion2.git](https://github.com/MartinEnzo/Evaluacion2.git)
+    git clone https://github.com/MartinEnzoUC/Evaluacion2.git
     cd Evaluacion2
     ```
 
